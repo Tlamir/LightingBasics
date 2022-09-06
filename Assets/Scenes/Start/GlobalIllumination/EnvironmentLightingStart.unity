@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 2.41
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: b6c0c81d2e0d2104bb4e7143fbc0f2d4, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 7e5a112e73be3ad43a6d0e76cd73f569, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -2234,7 +2234,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1428940395
 Light:
   m_ObjectHideFlags: 0
